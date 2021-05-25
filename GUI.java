@@ -4,11 +4,6 @@ import engine.HikingClub;
 import javafx.application.Application;
 import javafx.stage.Stage;
 
-
-/*
-    
- */
-
 /**
  * The main class of this program. It is also used as a bridge between the back end and front end of the program.
  */
